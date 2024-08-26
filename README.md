@@ -1,11 +1,20 @@
 <h2> <img src="https://github.com/jehlijos/jehlijos/blob/main/YzDM.gif?raw=true" width="40"> Bc. Josef Jehlička </h2>
 
-* 🗺 Geomatics student
-* 🇨🇿 CTU in Prague
-* 🛰 GIS and GNSS enthusiast
-* 🖊 Creative writer
-
-<img src="https://github.com/jehlijos/jehlijos/blob/main/gif.gif?raw=true" width="250"> 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🗺 Geomatics student</li>
+        <li>🇨🇿 CTU in Prague</li>
+        <li>🛰 GIS and GNSS enthusiast</li>
+        <li>🖊 Creative writer</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/jehlijos/jehlijos/blob/main/gif.gif?raw=true" width="250">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 * [Personal website](https://jehlijos.github.io/josef-jehlicka/)  🗒 <br> <br>
