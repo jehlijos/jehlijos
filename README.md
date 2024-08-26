@@ -2,7 +2,7 @@
 
 * 🗺 Geomatics student
 * 🇨🇿 CTU in Prague
-* 🛰 GIS and GNSS Enthusiast
+* 🛰 GIS and GNSS enthusiast
 * 🖊 Creative writer
 
 <img src="https://github.com/jehlijos/jehlijos/blob/main/gif.gif?raw=true" width="250"> 
