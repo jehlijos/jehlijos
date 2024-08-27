@@ -4,10 +4,10 @@
   <tr>
     <td>
       <ul>
-        <li>🗺 Geomatics student</li>
+        <li> <img src="https://github.com/jehlijos/jehlijos/blob/main/map.png?raw=true" height="25"> Geomatics student</li>
         <li>🇨🇿 CTU in Prague</li>
-        <li>🛰 GIS and GNSS enthusiast</li>
-        <li>🖊 Creative writer</li>
+        <li><img src="https://github.com/jehlijos/jehlijos/blob/main/gnss.png?raw=true" height="25"> GIS and GNSS enthusiast</li>
+        <li><img src="https://github.com/jehlijos/jehlijos/blob/main/pen2.png?raw=true" height="25"> Creative writer</li>
       </ul>
     </td>
     <td>
