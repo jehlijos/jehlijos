@@ -17,7 +17,9 @@
 </table>
 
 ## 🌐 Socials:
-* [Personal website](https://jehlijos.github.io/josef-jehlicka/)  🗒 <br> <br>
+ <a href="https://jehlijos.github.io/josef-jehlicka/" target="_blank"> <img src="https://github.com/jehlijos/jehlijos/blob/main/text.gif?raw=true" height="40"> </a> <a href="https://jehlijos.github.io/josef-jehlicka/" target="_blank"> <img src="https://github.com/jehlijos/jehlijos/blob/main/MXfm.gif?raw=true" height="50">  </a> <br> <br> 
+
+ 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/josef.jehlicka.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jehlickajosef) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jehlijos) <br> [![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)](https://www.openstreetmap.org/user/jehlijos) 
 
 # 💻 Skills:
