@@ -7,7 +7,7 @@
         <li> <img src="https://github.com/jehlijos/jehlijos/blob/main/map.png?raw=true" height="25"> Geomatics </li>
         <li><img src="https://github.com/jehlijos/jehlijos/blob/main/cz.png?raw=true" height="14"> CTU in Prague</li>
         <li><img src="https://github.com/jehlijos/jehlijos/blob/main/gnss.png?raw=true" height="25"> GIS and GNSS enthusiast</li>
-        <li><img src="https://github.com/jehlijos/jehlijos/blob/main/pen2.png?raw=true" height="25"> Creative writer</li>
+        <li><img src="https://github.com/jehlijos/jehlijos/blob/main/linux.svg.png?raw=true" height="30"> Linux user</li>
       </ul>
     </td>
     <td>
